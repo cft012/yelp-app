@@ -3,10 +3,11 @@
 }
 
 .top-nav{
-    display: flex;
+    display: flex;  
     justify-content: space-between;
     align-items: center;
     margin: var(--element-spacing);
+    width: 800px;
 }
  
 .left > *{
