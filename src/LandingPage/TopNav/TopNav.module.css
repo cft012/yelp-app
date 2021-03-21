@@ -8,7 +8,7 @@
     align-items: center;
     margin: var(--element-spacing);
 }
-
+ 
 .left > *{
     margin-right: var(--element-spacing);
 }
