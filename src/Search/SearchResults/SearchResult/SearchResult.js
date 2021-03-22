@@ -10,7 +10,7 @@ export function SearchResult(){
                 <h2 className='subtitle'>Burger Place</h2>
                 <BusinessRating/>
                 <p>$$</p>
-                <span class="tag">Burgers</span> <span class="tag">Fast Food</span>
+                <span className="tag">Burgers</span> <span className="tag">Fast Food</span>
             </div>
             <div className="contact-info">
                 <p>+1234234324</p>
