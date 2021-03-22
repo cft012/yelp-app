@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../assets/logo.png'
 import styles from './NavBar.module.css';
 import { SearchBar } from '../SearchBar/SearchBar';
-import {Link} from 'react-router-dom'
+import {Link} from 'react-router-dom';
 
 export function NavBar() {
     return(

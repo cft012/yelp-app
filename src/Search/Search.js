@@ -4,6 +4,7 @@ import { SearchResultsSummary } from './SearchResultsSummary/SearchResultsSummar
 import { SearchResults } from './SearchResults/SearchResults';
 
 export function Search(){
+
     return(
         <div>
             <NavBar/>
